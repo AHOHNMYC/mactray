@@ -1,4 +1,4 @@
-platform :osx, '10.8'
+platform :osx, '11'
 
 target 'FreenetTray' do
     use_frameworks!
